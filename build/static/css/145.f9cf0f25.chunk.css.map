@@ -1,0 +1,1 @@
+{"version":3,"sources":["colors.scss"],"names":[],"mappings":"AAAA,sBAAsB,aAAc,CAAC,8BAA8B,mBAAoB,CAAC,8BAA8B,kBAAmB","file":"145.f9cf0f25.chunk.css","sourcesContent":["[dir] .colors-list li{padding:0.4rem}[dir=ltr] .colors-list li svg{margin-right:0.25rem}[dir=rtl] .colors-list li svg{margin-left:0.25rem}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["coming-soon.scss"],"names":[],"mappings":"AAAA,qBAAqB,UAAU,CAAC,qBAAqB,WAAW,CAAC,iBAAiB,cAAc,CAAC,MAAM,cAAc","file":"136.b4fdf1b5.chunk.css","sourcesContent":["[dir=ltr] .clockCard{float:left}[dir=rtl] .clockCard{float:right}.getting-started{font-size:3rem}.lead{font-size:1rem}\n"]}
